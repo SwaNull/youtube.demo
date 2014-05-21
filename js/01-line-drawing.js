@@ -2,6 +2,8 @@ AdobeEdge.bootstrapCallback(function (compId) {
 	comp = AdobeEdge.getComposition('EDGE-50899785').getStage();
 });
 
+//Adding a comment here.
+
 var s, test, target,
 	targetx1 = 225,
 	targety1 = 218,
