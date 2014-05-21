@@ -1,0 +1,10 @@
+/* Cursors */
+#Stage_snap
+{
+	cursor:url(../images/draw-shapes-cursor.svg)18 18, url(../images/draw-shapes-cursor-1x.png) 18 18, crosshair;
+}
+
+.button
+{
+	cursor: pointer !important;
+}
